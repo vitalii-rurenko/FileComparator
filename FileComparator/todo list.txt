@@ -1,0 +1,3 @@
+add to form proggressBar item
+to do form larger
+create better bussiness logic for OpenDialog commands

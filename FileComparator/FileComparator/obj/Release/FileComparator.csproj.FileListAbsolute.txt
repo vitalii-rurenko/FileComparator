@@ -1,0 +1,27 @@
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\bin\Release\FileComparator.exe.config
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\bin\Release\FileComparator.exe
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\bin\Release\FileComparator.pdb
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\FileComparator.csprojResolveAssemblyReference.cache
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\MainWindow.baml
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\MainWindow.g.cs
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\App.g.cs
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\FileComparator_MarkupCompile.cache
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\FileComparator.g.resources
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\FileComparator.Properties.Resources.resources
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\FileComparator.csproj.GenerateResource.Cache
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\FileComparator.exe
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Release\FileComparator.pdb
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\bin\Release\FileComparator.exe.config
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\FileComparator.exe
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\FileComparator.pdb
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\bin\Release\FileComparator.exe
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\bin\Release\FileComparator.pdb
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\FileComparator.csprojResolveAssemblyReference.cache
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\MainWindow.baml
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\MainWindow.g.cs
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\App.g.cs
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\FileComparator_MarkupCompile.cache
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\FileComparator.g.resources
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\FileComparator.Properties.Resources.resources
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\obj\Release\FileComparator.csproj.GenerateResource.Cache
+C:\Users\bizarro\Desktop\FileComparator - Диплом\FileComparator\bin\Release\HashLib.dll

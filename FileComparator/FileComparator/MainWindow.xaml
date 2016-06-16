@@ -1,0 +1,65 @@
+﻿<Window x:Class="FileComparator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="FileComparator v.1.0."   WindowStartupLocation="CenterScreen" AllowDrop="True" Icon="md5.jpg" SizeToContent="WidthAndHeight" ResizeMode="NoResize" Opacity="1.1" ShowActivated="False">
+    <Window.BorderBrush>
+        <ImageBrush/>
+    </Window.BorderBrush>
+    <Grid>
+        <StackPanel Grid.RowSpan="3">
+            <GroupBox Header="Enter file location">
+                <WrapPanel>
+                    <StackPanel>
+                        <WrapPanel>
+                            <TextBlock Text="File Name" FontWeight="Bold" Margin="5"/>
+                            <TextBox Name="OpenFileDlgTextBox" Margin="5"  Width="420"/>
+                        </WrapPanel>
+                        <Button Grid.Column="1" Margin="5" Content="Browse"
+                                    HorizontalAlignment="Right" Name="browse_btn" 
+                                    Click="browse_btn_Click" Height="22" Width="60"/>
+                    </StackPanel>
+                </WrapPanel>
+            </GroupBox>
+            <GroupBox Header="Choose hash algorithm" HorizontalContentAlignment="Left" 
+                          VerticalContentAlignment="Top" HorizontalAlignment="Stretch" 
+                          VerticalAlignment="Stretch">
+                <StackPanel>
+                    <ComboBox SelectedIndex="0" Margin="5" Width="150" 
+                                  HorizontalAlignment="Left" Name="cmbBox">
+                    </ComboBox>
+                    <WrapPanel>
+                        <TextBlock Margin="5,5,0,5" Text="Hash Code " FontWeight="Bold"/>
+                        <TextBox Width="420" Margin="5" Name="HashCodeTextBox" IsReadOnly="True"/>
+                    </WrapPanel>
+                    <Button Name="CalculateHashButton" Content=" Calculate" Height="22" 
+                                Width="60"  Margin="5" Click="CalculateHashButton_Click"
+                                HorizontalAlignment="Right"/>
+                </StackPanel>
+            </GroupBox>
+            <Expander Header="Hashcode comparison">
+                <GroupBox>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+
+                        <Image Name="comparationResult" Source="null.png" 
+                                   Stretch="Fill" Height="70" Width="70"
+                                   Grid.Column="0"/>
+                        <StackPanel Grid.Column="1">
+                            <TextBox Height="23" Width="420" Margin="2,5,5,5" 
+                                     Name="CompareHashCodeTextBox" VerticalAlignment="Top"
+                                     Grid.Column="1" IsReadOnly="True"/>
+
+                            <Button Name="CompareButton" Content="Compare" 
+                                    Height="22" Width="60" Margin="5"
+                                    Click="CompareButton_Click" 
+                                    Grid.Column="1" HorizontalAlignment="Right"/>
+                        </StackPanel>
+                    </Grid>
+                </GroupBox>
+            </Expander>
+        </StackPanel>
+    </Grid>
+</Window>

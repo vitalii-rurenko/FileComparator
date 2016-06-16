@@ -1,0 +1,13 @@
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\bin\Debug\FileComparator.exe.config
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\bin\Debug\FileComparator.exe
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\bin\Debug\FileComparator.pdb
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\FileComparator.csprojResolveAssemblyReference.cache
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\MainWindow.baml
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\MainWindow.g.cs
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\App.g.cs
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\FileComparator_MarkupCompile.cache
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\FileComparator.g.resources
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\FileComparator.Properties.Resources.resources
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\FileComparator.csproj.GenerateResource.Cache
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\FileComparator.exe
+C:\Users\bizarro\Desktop\FileComparator\FileComparator\obj\Debug\FileComparator.pdb
